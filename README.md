@@ -34,7 +34,7 @@ End 🌹
 <br>
 <br>
 <br>
-<img style="border-radius:30px; box-shadow:white 2px 2px 10px 0px;" alt="PHP" src="https://static.radib.com/uploadcenter/upload/838354558php-programming-language.jpg"></img>
+<img style="border-radius:30px; box-shadow:white 0.5px 0.5px 20px 0px;" alt="PHP" src="https://static.radib.com/uploadcenter/upload/838354558php-programming-language.jpg"></img>
 <br>
 <br>
 <hr>
