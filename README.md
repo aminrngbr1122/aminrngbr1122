@@ -15,13 +15,18 @@ End 🌹
 <a href="https://instagram.com/xdeveloper2022">Follow my instagram 🤍</a>
 <br>
 <br>
+<li>Languages ​​I know 👨‍💻 :</li>
+<ul>
+<li>Python 🐍</li>
+<li>Javascript 👨‍🔧</li>
+<li>php 🐘</li>
+</ul>
+<br>
+<li>Current languages ​​and frameworks 🦄 :</li>
+<ul>
+<li>React js 🤯</li>
+<li>Laravel 👌</li>
+</ul>
+<hr>
 </html>
-1. Languages ​​I know 👨‍💻 :
-  1. Python 🐍
-  1. Javascript 👨‍🔧
-  1. php 🐘
-
-1. Current languages ​​and frameworks 🦄 :
-  1. React js 🤯
-  1. Laravel 👌
 
