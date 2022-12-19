@@ -1,8 +1,4 @@
 <html>
-<style>
-#img{
-}
-</style>
 <h1> Hi 👋 Welcome to my GitHub ♨️🕺 </h1>
 <hr>
 <b>
