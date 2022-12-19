@@ -27,8 +27,8 @@ End 🌹
 <li>React js 🤯</li>
 <li>Laravel 👌</li>
 </ul>
+<br>
+<br>
 <hr>
-<br>
-<br>
 </html>
 
