@@ -1,5 +1,4 @@
 <h1> Hi 👋 Welcome to my GitHub ♨️🕺 </h1>
-<h2> I,m amin rngbr </h2>
 <hr>
 <b>
 I am Mohammad Amin Ranjbar 🐈‍⬛
@@ -12,5 +11,4 @@ End 🌹
 <a href="https://instagram.com/xdeveloper2022"></a>
 <br>
 <br>
-<br>
-<b style="font-size:45px; color:red">🌹</b>
+#🌹
