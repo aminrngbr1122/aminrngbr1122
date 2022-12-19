@@ -1,6 +1,5 @@
 <html>
 <h1> Hi 👋 Welcome to my GitHub ♨️🕺 </h1>
-<hr>
 <b>
 I am Mohammad Amin Rngbr 🐈‍⬛
 <br>
@@ -34,9 +33,8 @@ End 🌹
 <br>
 <br>
 <br>
-<img style="border-radius:30px; box-shadow:white 0.5px 0.5px 20px 0px;" alt="PHP" src="https://static.radib.com/uploadcenter/upload/838354558php-programming-language.jpg"></img>
+<img style="border-radius:30px; box-shadow:black 0.5px 0.5px 20px 0px;" alt="PHP" src="https://static.radib.com/uploadcenter/upload/838354558php-programming-language.jpg"></img>
 <br>
 <br>
-<hr>
 </html>
 
