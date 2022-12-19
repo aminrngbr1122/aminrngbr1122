@@ -8,7 +8,4 @@ End 🌹
 </b>
 <hr>
 <br>
-<a href="https://instagram.com/xdeveloper2022"></a>
-<br>
-<br>
-#🌹
+<a href="https://instagram.com/xdeveloper2022">Follow my instagram 🤍</a>
