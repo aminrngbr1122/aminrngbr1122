@@ -38,5 +38,13 @@ End 🌹
 <br>
 <br>
 <hr>
+<h2> Mim video 😂 : </h2>
+<br>
+<br>
+<video controls>
+<source style="border-radius:30px; box-shadow:red 0px 0px 15px 0px" src="https://hajifirouz8.asset.aparat.com/aparat-video/7983bf530b869f32a2e811bce2e6d84841832051-480p.mp4?wmsAuthSign=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbiI6IjhjNjAzNTlhN2IxMDdlODU0NDNjZTZmYjhhZTQwZTE4IiwiZXhwIjoxNjcxNDg3NTkzLCJpc3MiOiJTYWJhIElkZWEgR1NJRyJ9.oG4YPz2fnmJBqRnycMep6I_c1TCrlu7pAj6mONONno0">
+</video>
+<br>
+<br>
 </html>
 
