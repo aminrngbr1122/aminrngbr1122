@@ -1,8 +1,6 @@
 <html>
 <style>
 #img{
-border-radius:30px;
-box-shadow:red 0px 0px 15px 0px;
 }
 </style>
 <h1> Hi 👋 Welcome to my GitHub ♨️🕺 </h1>
@@ -40,6 +38,6 @@ End 🌹
 <br>
 <br>
 <br>
-<img id="img" alt="PHP" src="https://static.radib.com/uploadcenter/upload/838354558php-programming-language.jpg"></img>
+<img style="border-radius:30px; box-shadow:red 0px 0px 15px 0px;" alt="PHP" src="https://static.radib.com/uploadcenter/upload/838354558php-programming-language.jpg"></img>
 </html>
 
