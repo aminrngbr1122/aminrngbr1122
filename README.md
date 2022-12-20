@@ -28,9 +28,9 @@ End 🌹
 <li>Current languages ​​and frameworks 🦄 :</li>
 <ul>
 <br>
-<li>React js 🤯 <img src="https://img.shields.io/badge/reactjs-%23E34F26.svg?style=for-the-badge&logo=reactjs&logoColor=black"></li>
+<li>React js 🤯 <img src="https://img.shields.io/badge/react-%23E34F26.svg?style=for-the-badge&logo=react&logoColor=black"></li>
 <br>
-<li>Laravel 👌 <img src="https://img.shields.io/badge/Laravel-%23E34F26.svg?style=for-the-badge&logo=Laravel&logoColor=blue"></li>
+<li>Laravel 👌 <img src="https://img.shields.io/badge/Laravel-%23E34F26.svg?style=for-the-badge&logo=Laravel&logoColor=red"></li>
 </ul>
 <br>
 <hr>
