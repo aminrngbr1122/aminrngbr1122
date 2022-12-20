@@ -17,9 +17,12 @@ End 🌹
 <br>
 <li>Languages ​​I know 👨‍💻 :</li>
 <ul>
+<br>
 <li>Python 🐍<img src="https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=python&logoColor=green"></li>
-<li>Javascript 👨‍🔧</li>
-<li>php 🐘</li>
+<br>
+<li>Javascript 👨‍🔧<img src="https://img.shields.io/badge/javascript-%23E34F26.svg?style=for-the-badge&logo=javascript&logoColor=white"></li>
+<br>
+<li>php 🐘<img src="https://img.shields.io/badge/php-%23E34F26.svg?style=for-the-badge&logo=php&logoColor=blue"></li>
 </ul>
 <br>
 <li>Current languages ​​and frameworks 🦄 :</li>
