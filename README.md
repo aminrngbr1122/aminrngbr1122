@@ -12,7 +12,8 @@ End 🌹
 </b>
 <hr>
 <br>
-<a href="https://instagram.com/xdeveloper2022">Follow my instagram 🤍</a>
+<a style="color:black" href="https://instagram.com/xdeveloper2022">Follow my instagram 🤍</a>
+<br>
 <br>
 <br>
 <li>Languages ​​I know 👨‍💻 :</li>
