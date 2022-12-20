@@ -17,7 +17,7 @@ End 🌹
 <br>
 <li>Languages ​​I know 👨‍💻 :</li>
 <ul>
-<li>Python 🐍</li>
+<li>Python 🐍</li><img src="https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=python&logoColor=green">
 <li>Javascript 👨‍🔧</li>
 <li>php 🐘</li>
 </ul>
