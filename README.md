@@ -18,17 +18,19 @@ End 🌹
 <li>Languages ​​I know 👨‍💻 :</li>
 <ul>
 <br>
-<li>Python 🐍<img src="https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=python&logoColor=green"></li>
+<li>Python 🐍 <img src="https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=python&logoColor=green"></li>
 <br>
-<li>Javascript 👨‍🔧<img src="https://img.shields.io/badge/javascript-%23E34F26.svg?style=for-the-badge&logo=javascript&logoColor=white"></li>
+<li>Javascript 👨‍🔧 <img src="https://img.shields.io/badge/javascript-%23E34F26.svg?style=for-the-badge&logo=javascript&logoColor=yellow"></li>
 <br>
-<li>php 🐘<img src="https://img.shields.io/badge/php-%23E34F26.svg?style=for-the-badge&logo=php&logoColor=blue"></li>
+<li>php 🐘 <img src="https://img.shields.io/badge/php-%23E34F26.svg?style=for-the-badge&logo=php&logoColor=blue"></li>
 </ul>
 <br>
 <li>Current languages ​​and frameworks 🦄 :</li>
 <ul>
-<li>React js 🤯</li>
-<li>Laravel 👌</li>
+<br>
+<li>React js 🤯 <img src="https://img.shields.io/badge/reactjs-%23E34F26.svg?style=for-the-badge&logo=reactjs&logoColor=black"></li>
+<br>
+<li>Laravel 👌 <img src="https://img.shields.io/badge/Laravel-%23E34F26.svg?style=for-the-badge&logo=Laravel&logoColor=blue"></li>
 </ul>
 <br>
 <hr>
