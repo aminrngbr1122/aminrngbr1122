@@ -38,6 +38,8 @@ End 🌹
 <li>React js 🤯 <img src="https://img.shields.io/badge/react-%23E34F26.svg?style=for-the-badge&logo=react&logoColor=darkblue"></li>
 <br>
 <li>Laravel 👌 <img src="https://img.shields.io/badge/Laravel-%23E34F26.svg?style=for-the-badge&logo=Laravel&logoColor=black"></li>
+<br>
+<li>swift 🕊 <img src="https://img.shields.io/badge/swift-%23E34F26.svg?style=for-the-badge&logo=swift&logoColor=black"></li>
 </ul>
 <br>
 <hr>
