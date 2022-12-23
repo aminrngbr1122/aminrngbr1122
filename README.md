@@ -8,7 +8,11 @@ a 16-year-old boy 👦 who loves backend ♨️👨‍💻 and Python 🐍,
 <br>
 I want to share everything I learned with you on GitHub 😃❤
 <br>
-I'm not used to writing code 😮 💨, but if it's a big project, I write beautifully 🤩😉
+I'm not used to clean coding 😮‍💨
+<br>
+but if it's a big project, I write nicely 
+<br>
+🤩😉
 <br>
 End 🌹
 </b>
