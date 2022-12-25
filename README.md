@@ -52,9 +52,4 @@ End 🌹
 <br>
 <br>
 </html>
-```php
-<?php
-echo "Hello welcome to git hub 🤩";
-?>
-```
 
