@@ -50,6 +50,7 @@ End 🌹
 <br>
 <img style="border-radius:30px; box-shadow:black 0.5px 0.5px 20px 0px;" alt="PHP" src="https://static.radib.com/uploadcenter/upload/838354558php-programming-language.jpg"></img>
 <br>
+ <img src="https://img.shields.io/badge/AMIN-%23E34F26.svg?style=for-the-badge&logo=AMIN&logoColor=black">
 <br>
 </html>
 
