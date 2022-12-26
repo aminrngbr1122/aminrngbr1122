@@ -53,5 +53,14 @@ End 🌹
  <br>
  <img src="https://img.shields.io/badge/                AMINRNGBR1122-%23E34F26.svg?style=for-the-badge&logo=AMIN&logoColor=black&color=black">
 <br>
+<br>
+<p align="center">
+  <a href="https://github.com/ReZeroE">
+    <img align="center" height="150em" src="https://github-readme-stats-coral-five.vercel.app/api?username=aminrngbr1122&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide=issues"/>
+  </a>
+  <a href="https://github.com/ReZeroE/AnilistPython">
+    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=aminrngbr1122&repo=AnilistPython&layout=compact&langs_count=8&theme=material-palenight&count_private=true"/>
+  </a>
+</p>
 </html>
 
