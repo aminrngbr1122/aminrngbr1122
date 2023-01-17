@@ -2,7 +2,7 @@
 <h1> Hi 👋 Welcome to my GitHub ♨️🕺 </h1>
 <br>
 <b>
-I am Mohammad Amin Rngbr 🐈‍⬛
+I am Amin Rngbr 🐈‍⬛
 <br>
 a 16-year-old boy 👦 who loves backend ♨️👨‍💻 and Python 🐍, 
 <br>
