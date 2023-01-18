@@ -1,64 +1,30 @@
-<html>
-<h1> Hi 👋 Welcome to my GitHub ♨️🕺 </h1>
-<br>
-<b>
-I am Amin Rngbr 🐈‍⬛
-<br>
-a 16-year-old boy 👦 who loves backend ♨️👨‍💻 and Python 🐍, 
-<br>
-I want to share everything I learned with you on GitHub 😃❤
-<br>
-I'm not used to clean coding 😮‍💨
-<br>
-but if it's a big project, I write nicely 
-<br>
-🤩😉
-<br>
-End 🌹
-</b>
-<hr>
-<br>
-<a style="color:black" href="https://instagram.com/xdeveloper2022">Follow my instagram 🤍</a>
-<br>
-<br>
-<br>
-<li>Languages ​​I know 👨‍💻 :</li>
-<ul>
-<br>
-<li>Python 🐍 <img src="https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=python&logoColor=green"></li>
-<br>
-<li>Javascript 👨‍🔧 <img src="https://img.shields.io/badge/javascript-%23E34F26.svg?style=for-the-badge&logo=javascript&logoColor=yellow"></li>
-<br>
-<li>php 🐘 <img src="https://img.shields.io/badge/php-%23E34F26.svg?style=for-the-badge&logo=php&logoColor=blue"></li>
-</ul>
-<br>
-<li>Current languages ​​and frameworks 🦄 :</li>
-<ul>
-<br>
-<li>React js 👨‍💻 <img src="https://img.shields.io/badge/react-%23E34F26.svg?style=for-the-badge&logo=react&logoColor=darkblue"></li>
-<br>
-<li>Laravel 👌 <img src="https://img.shields.io/badge/Laravel-%23E34F26.svg?style=for-the-badge&logo=Laravel&logoColor=black"></li>
-<br>
-<li>swift 🕊 <img src="https://img.shields.io/badge/swift-%23E34F26.svg?style=for-the-badge&logo=swift&logoColor=black"></li>
-</ul>
-<br>
-<hr>
-<br>
-<h2> The language I like very much 🤩😍 :
-<br>
-<br>
-<br>
-<img align="center" style="border-radius:30px; box-shadow:black 0.5px 0.5px 20px 0px;" alt="PHP" src="https://static.radib.com/uploadcenter/upload/838354558php-programming-language.jpg"></img>
-<br>
- <br>
- <img align="center" src="https://img.shields.io/badge/                AMINRNGBR1122-%23E34F26.svg?style=for-the-badge&logo=AMIN&logoColor=black&color=black">
-<br>
-<br>
-<p>
-  <a href="https://github.com/aminrngbr1122">
-    <img align="center" height="150em" src="https://github-readme-stats-coral-five.vercel.app/api?username=aminrngbr1122&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide=issues"/>
-  </a>
-</p>
- <br>
-</html>
+{{db-corp|help=off}}
+'''یردنکسا''' (به [[زبان انگلیسی|انگلیسی]]: '''Yerdanksa''') یکی از شرکت ها در کار '''فناوری و برنامه نویسی''' است که از سال <u>1395</u> تا <u>1401</u> کمک بسیار بزرگی به '''فناوری و تکنولوژی''' در '''ایران''' کرده است مدیر این شرکت شایان رضایی بان بیدی میباشد .
 
+'''اطلاعاتی در مورد ارائه خدمات علمی فناوری :'''
+
+'''شرکت یردنکسا'''، <u>سعی دارد گامی در راه تحقق اهداف شرکت های دانش بنیان بردارد و کمکی کند به رفاه هر چه بیشتر بشر و از جمله خدمات مهم میتوان به برنامه ها و آپ ها اشاره کرد.</u>
+
+<u><br /></u>'''مالکیت این شرکت خصوصی و فعالیت ان عمومی است .'''
+
+<big>این شرکت دارای</big> '''یک وب سایت خبری علمی''' <ref>{{یادکرد وب|نشانی=http://yerdanksa-news.0site.ir|عنوان=یردنکسا|کد زبان=fa}}</ref> است .
+
+{{Infobox Company|نام=یردنکسا|نام شرکت=یردنکسا|logo=ایکون شرکت یردنکسا.png|توضیح نشان=لوگو اصلی شرکت یردنکسا|بنیانگذار=<div style="color:blue">
+شایان رضایی
+</div>|نوع=شرکت خصوصی|بنا نهاده=1395|دفتر مرکزی=کرمانشاه / دولت اباد|تعداد کارکنان=40 نفر|خدمات=<div style="color:red">
+فیلترشکن 
+<br>
+گیم دی ان اس
+<br>
+فضای مجازی
+<br>
+سرور های ابری
+<br>
+فروش هاست
+<br>
+کارهای علمی
+<br>
+ساخت وب سایت و برنامه اندورید
+</div>|وب گاه=http://yerdanksa-news.0site.ir}}
+[[رده:مقاله‌های ایجاد شده توسط ایجادگر]]
+__نمایه__
